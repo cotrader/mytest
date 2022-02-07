@@ -8,11 +8,8 @@ from datetime import date
 import yfinance as yf
 import pandas as pd
 from matplotlib import pyplot as plt
-from plotly import graph_objs as go
 import pandas as pd
-from PIL import Image
-import cufflinks as cf
-import datetime
+
 
 st.write('Das ist mein Uploadversuch')
 user_input = st.text_input("eigener Wert", 'GOOG')
