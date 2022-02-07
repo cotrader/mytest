@@ -1,0 +1,309 @@
+Name,Datenquelle,Feld,Markt,Portfolio,Quelle,Kursversorgung,ISIN,Interactive,Onvista_Website,Research,Kuerzel_neu,yISIN,Dividende,Preis,Informationen,News,Currency,Probleme,Code,Exchange,EOD,Name_y,Type,Country,previousClose,previousCloseDate
+Aareal Bank,yahoo,Close,Aktie_Bank,0,,,DE0005408116,,,,ARL,,,,,,EUR,,ARL,XETRA,ARL.XETRA,Aareal Bank AG,Common Stock,Germany,27.62,2021-11-01
+ACCENTRO REAL ESTATE ,yahoo,Close,Aktie_Immo,1,,,DE000A0KFKB3,1,,,E7S,,,,,,EUR,,A4Y,XETRA,A4Y.XETRA,ACCENTRO Real Estate AG,Common Stock,Germany,6.8,2021-11-01
+ADLER GROUP SA,yahoo,Close,Aktie_Immo,1,,,LU1250154413,1,,,ADJ,,,,,,EUR,,ADJ,XETRA,ADJ.XETRA,Adler Group S.A,Common Stock,Germany,11.72,2021-11-01
+Adler Real Estate,yahoo,Close,Aktie_Immo,0,,,DE0005008007,,,,ADL,,,,,,EUR,,ADL,XETRA,ADL.XETRA,ADLER Real Estate AG,Common Stock,Germany,8.01,2021-11-01
+Africa VanEck Vectors ,yahoo,Close,ETF_Land,0,,,US92189F8665,,,,AFK,,,,,,USD,,AFK,US,AFK.US,VanEck Vectors Africa Index ETF,ETF,USA,21.52,2021-11-01
+AI ETF,yahoo,Close,ETF_Sektor,0,,,US26922A4610,,,,AIIQ,,,,,,USD,,AIIQ,US,AIIQ.US,AI Powered International Equity ETF,ETF,USA,34.1372,2021-11-01
+Airbus,yahoo,Close,Aktie_Travel,0,,,NL0000235190,,,,AIR,,,,,,EUR,,AIR,PA,AIR.PA,Airbus SE,Common Stock,France,109.66,2021-11-01
+Algorand,yahoo,Close,Krypto,1,,,ALGO-USD.CC,,,,,,,,,,USD,,ALGO-USD,CC,ALGO-USD.CC,Algorand,Currency,Unknown,1.8915,2021-11-02
+alstria office REIT-AG,yahoo,Close,Aktie_Immo,0,,,DE000A0LD2U1,,,,AOX,,,,,,EUR,,AOX,XETRA,AOX.XETRA,alstria office REIT-AG,Common Stock,Germany,16.17,2021-11-01
+Alteryx,yahoo,Close,Aktie_Tech,1,,,US02156B1035,,,,AYX,,,,,,USD,,AYX,US,AYX.US,Alteryx Inc,Common Stock,USA,75.56,2021-11-01
+AMADEUS FIRE AG,yahoo,Close,Aktie_Beratung,0,,,DE0005093108,,,,AAD,,,,,,EUR,,AAD,XETRA,AAD.XETRA,Advanced Micro Devices Inc,Common Stock,Germany,105.98,2021-11-01
+Aroundtown,yahoo,Close,Aktie_Immo,0,,,LU1673108939,,,,AT1,,,,,,EUR,,AT1,XETRA,AT1.XETRA,Aroundtown SA,Common Stock,Germany,6.03,2021-11-01
+Artec,yahoo,Close,Aktie_Software,0,,,DE0005209589,,,,A6T,,,,,,EUR,,A6T,XETRA,A6T.XETRA,artec technologies AG,Common Stock,Germany,3.2,2021-11-01
+Augur,yahoo,Close,Krypto,1,,,REP-USD.CC,,,,,,,,,,USD,,REP-USD,CC,REP-USD.CC,Augur,Currency,Unknown,24.5574,2021-11-02
+Aumann,yahoo,Close,Aktie_Industrie,0,,,DE000A2DAM03,,,,AAG,,,,,,EUR,,AAG,XETRA,AAG.XETRA,Aumann AG,Common Stock,Germany,16.28,2021-11-01
+Australien,yahoo,Close,ETF_Land,0,,,US4642861037,,,,EWA,,,,,,USD,,EWA,US,EWA.US,iShares MSCI Australia ETF,ETF,USA,26.47,2021-11-01
+AUTONATION INC,yahoo,Close,Aktie_Konsum,1,,,US05329W1027,1,,,AN,,,,,,USD,,AN,US,AN.US,AutoNation Inc,Common Stock,USA,123.38,2021-11-01
+AXA,yahoo,Close,Aktie_Bank,0,,,FR0000120628,,,,CS,,,,,,EUR,,CS,PA,CS.PA,AXA SA,Common Stock,France,25.305,2021-11-01
+BAADER BANK AG,yahoo,Close,Aktie_Bank,0,,,DE0005088108,,,,BWB,,,,,,EUR,,BWB,XETRA,BWB.XETRA,Baader Bank Aktiengesellschaft,Common Stock,Germany,7,2021-11-01
+BAE SYSTEMS PLC,yahoo,Close,Aktie_Industrie,1,,,GB0002634946,1,,,BA.,,,,,,EUR,,BA,LSE,BA.LSE,BAE Systems plc,Common Stock,UK,553.6,2021-11-01
+Ballard Power,yahoo,Close,Aktie_Energie,0,,,CA0585861085,,,,BLDP,,,,,,USD,,BLDP,US,BLDP.US,Ballard Power Systems Inc,Common Stock,USA,19.07,2021-11-01
+BASF,yahoo,Close,Aktie_Chemie,0,2 Börse Online 45S.40,,DE000BASF111,,,,BAS,,,,,,EUR,,BAS,XETRA,BAS.XETRA,BASF SE,Common Stock,Germany,62.79,2021-11-01
+Bauer,yahoo,Close,Aktie_Industrie,0,,,DE0005168108,,,,B5A,,,,,,EUR,,B5A,XETRA,B5A.XETRA,BAUER Aktiengesellschaft,Common Stock,Germany,10.96,2021-11-01
+Baumot,yahoo,Close,Aktie_Industrie,0,Börse Online 34 S. 40,,DE000A2G8Y89,,,Abgasfiltersysteme,TINC,,,,,,EUR,,TINC,F,TINC.F.F,Fehler,Fehler,Fehler,Fehler,Fehler
+Bavaria Industries,yahoo,Close,Aktie_Beteiligung,0,,,DE0002605557,,,,B8A,,,,,,EUR,,B8A,XETRA,B8A.XETRA,BAVARIA Industries Group AG,Common Stock,Germany,79,2021-11-01
+Bayer,yahoo,Close,Aktie_Chemie,1,,,DE000BAY0017,,,,BAYN,,,,,,EUR,,BAYN,XETRA,BAYN.XETRA,Bayer Aktiengesellschaft,Common Stock,Germany,49.48,2021-11-01
+BB Biotech,yahoo,Close,Aktie_Biotech,0,,,CH0038389992,,,,BBZA,,,,,,EUR,,BION,SW,BION.SW,BB Biotech AG,Common Stock,Switzerland,81.4,2021-11-01
+BBGI Global,yahoo,Close,Aktie_Immo,1,,,LU0686550053,,,,BBGI,,,,,,GBP,,BBGI,LSE,BBGI.LSE,BBGI Global Infrastructure S.A,Common Stock,UK,172.6,2021-11-01
+Befesa,yahoo,Close,Aktie_Industrie,0,Focus Money 38/2019,,LU1704650164,,,,BFSA,,,,,,EUR,,BFSA,XETRA,BFSA.XETRA,Befesa S.A,Common Stock,Germany,63.6,2021-11-01
+Beiersdorf,yahoo,Close,Aktie_Chemie,0,,,DE0005200000,,,,BEI,,,,,,EUR,,BEI,XETRA,BEI.XETRA,Beiersdorf Aktiengesellschaft,Common Stock,Germany,92.68,2021-11-01
+Berentzen,yahoo,Close,Aktie_Konsum,0,Focus Money 38/2019,,DE0005201602,,,,BEZ,,,,,,EUR,,BEZ,XETRA,BEZ.XETRA,Berentzen-Gruppe Aktiengesellschaft,Common Stock,Germany,6.82,2021-11-01
+Berliner Effekten,yahoo,Close,Aktie_Beteiligung,0,,,DE0005221303,,,,BFV,,,,,,EUR,,BFV,F,BFV.F,Berliner Effektengesellschaft AG,Common Stock,Germany,86.4,2021-10-29
+Bet at Home,yahoo,Close,Aktie_Leisure,0,,,DE000A0DNAY5,,https://www.bet-at-home.ag,https://www.bet-at-home.ag/de/share/coverage,ACX,,,,,,EUR,,ACX,XETRA,ACX.XETRA,bet-at-home.com AG,Common Stock,Germany,17.38,2021-11-01
+biontec,yahoo,Close,Aktie_Biotech,0,,,US09075V1026,,,,BNTX,,,,,,USD,,BNTX,US,BNTX.US,BioNTech SE,Common Stock,USA,274.32,2021-11-01
+Blackberry,yahoo,Close,Aktie_Tech,0,,,CA09228F1036,,,,,,,,,,USD,,BB,US,BB.US,BlackBerry Limited,Common Stock,USA,11.37,2021-11-01
+Booking,yahoo,Close,Aktie_Travel,0,,,US09857L1089,,,,PCE1,,,,,,EUR,,BKNG,US,BKNG.US,Booking Holdings Inc,Common Stock,USA,2489.6899,2021-11-01
+BP,yahoo,Close,Aktie_OIL,1,8,,GB0007980591,,,,BP,,,,,,USD,,BP,LSE,BP.LSE,BP p.l.c,Common Stock,UK,357,2021-11-01
+BrasilSmall Cap,yahoo,Close,ETF_Small_Cap,0,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,,US4642891315,,,,EWZS,,,,,,USD,,EWZS,US,EWZS.US,iShares MSCI Brazil Small-Cap ETF,ETF,USA,13.85,2021-11-01
+BTC,yahoo,Close,Krypto,1,,,BTC-USD.CC,,,,,,,,,,USD,,BTC-USD,CC,BTC-USD.CC,Bitcoin,Currency,Unknown,61494.2432,2021-11-02
+BVB,yahoo,Close,Aktie_Leisure,0,,,DE0005493092,,,,BVB,,,,,,EUR,,BVB,XETRA,BVB.XETRA,Borussia Dortmund GmbH & Co. Kommanditgesellschaft auf Aktien,Common Stock,Germany,4.944,2021-11-01
+CAMECO,yahoo,Close,Aktie_Uran,1,,,CA13321L1085,,,,CCJ,,,,,,USD,,CCJ,US,CCJ.US,Cameco Corporation,Common Stock,USA,25.14,2021-11-01
+Canadian Apartment Prop.,yahoo,Close,Aktie_Rohstoff,0,,,CA1349211054,,,,CAR-UN,,,,,,CAD,,CAR-UN,TO,CAR-UN.TO,Canadian Apartment Properties Real Estate Investment Trust,Common Stock,Canada,60.33,2021-11-01
+Cancom,yahoo,Close,Aktie_Tech,0,1 Börse Online 45S.40,,DE0005419105,,,,COK,,,,,,EUR,,COK,XETRA,COK.XETRA,Cancom SE,Common Stock,Germany,61.28,2021-11-01
+Cardano,yahoo,Close,Krypto,1,,,ADA,,,,,,,,,,USD,,ADA-USD,CC,ADA-USD.CC,Cardano,Currency,Unknown,1.9507,2021-11-02
+Castle Private,yahoo,Close,Aktie_Beteiligung,1,,,CH0048854746,,,,CPEN,,,,Langfristinvestment hohe Ausschüttung,,CHF,,CPEN,SW,CPEN.SW,Fehler,Fehler,Fehler,Fehler,Fehler
+CD Projekt ,yahoo,Close,Aktie_Tech,0,,,PLOPTTC00011,,,,7CD,,,,,,EUR,,CDR,WAR,CDR.WAR,CD Projekt S.A.,Common Stock,Poland,173.88,2021-10-29
+Chainlink,yahoo,Close,Krypto1,1,,,LINK,,,,,,,,,,USD,,LINK-USD,CC,LINK-USD.CC,Chainlink,Currency,Unknown,31.5519,2021-11-02
+China,yahoo,Close,ETF_Land,0,,,US46137V5710,,,,PGJ,,,,,,USD,,PGJ,US,PGJ.US,Fehler,Fehler,Fehler,Fehler,Fehler
+China ETF,yahoo,Close,ETF_Land,0,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,,,,,,GXC,,,,,,USD,,GXC,US,GXC.US,,,,,
+Commodity ETF,yahoo,Close,ETF_Rohstoff,0,,,US46138B1035,,,,DBC,,,,,,USD,,DBC,US,DBC.US,Fehler,Fehler,Fehler,Fehler,Fehler
+Corestate,yahoo,Close,Aktie_Immo,0,,,LU1296758029,,,,CCAP,,,,,,EUR,,CCAP,F,CCAP.F,CORESTATE Capital Holding S.A,Common Stock,Germany,10.25,2021-11-01
+CR Capital,yahoo,Close,Aktie_Beteiligung,1,6,,DE000A2GS625,,,,CRZK,,,,Langfristinvestment hohe Ausschüttung,,EUR,,CRZK,XETRA,CRZK.XETRA,Fehler,Fehler,Fehler,Fehler,Fehler
+creditshelf,yahoo,Close,Aktie_Fintech,1,,,DE000A2LQUA5,,,,CSQ,,,,,,EUR,,CSQ,XETRA,CSQ.XETRA,creditshelf Aktiengesellschaft,Common Stock,Germany,40.6,2021-11-01
+CUREVAC NV,yahoo,Close,Aktie_Biotech,1,,,NL0015436031,1,,,CVAC,,,,,,USD,,CVAC,US,CVAC.US,CureVac N.V,Common Stock,USA,42.1,2021-11-01
+cyan AG,yahoo,Close,Aktie_Tech,1,Börse Online 09,,DE000A2E4SV8,,,,CYR,,,,,,EUR,,CYR,XETRA,CYR.XETRA,cyan AG,Common Stock,Germany,4.23,2021-11-01
+Daimler,yahoo,Close,Aktie_Auto,0,,,DE0007100000,,,,DAI,,,,,,EUR,,DAI,XETRA,DAI.XETRA,Daimler AG,Common Stock,Germany,86.98,2021-11-01
+Danone,yahoo,Close,Aktie_Nahrung,0,,,FR0000120644,,,,BSN,,,,,,EUR,,BN,PA,BN.PA,Danone S.A,Common Stock,France,56.95,2021-11-01
+Dash,yahoo,Close,Krypto,1,,,DASH-USD.CC,,,,,,,,,,USD,,DASH-USD,CC,DASH-USD.CC,Dash,Currency,Unknown,190.941,2021-11-02
+Datamodul,yahoo,Close,Aktie_Tech,0,,,DE0005498901,,,,DAM,,,,,,EUR,,DAM,XETRA,DAM.XETRA,DATA MODUL Aktiengesellschaft Produktion und Vertrieb von elektronischen Systemen,Common Stock,Germany,65,2021-11-01
+DAX ETF,yahoo,Close,ETF_Land,0,,,US37954Y4917,,,,DAX,,,,,,USD,,DAX,US,DAX.US,Global X DAX Germany ETF,ETF,USA,33.2561,2021-11-01
+Dax ETF1,yahoo,Close,ETF_Land,0,,,DE0005933931,,,,EXS1,,,,,,EUR,,DAXEX,SW,DAXEX.SW,iShares Core DAX UCITS ETF (DE),ETF,Switzerland,141.28,2021-11-01
+Denison Mines,yahoo,Close,Aktie_Rohstoff,0,,,CA2483561072,,,,DNN,,,,,,USD,,DNN,US,DNN.US,Denison Mines Corp,Common Stock,USA,1.77,2021-11-01
+Deutsche Balaton AG,yahoo,Close,Aktie_Beteiligung,0,,,DE000A2LQT08,,,,BBHK,,,,,,EUR,,BBHK,STU,BBHK.STU,Fehler,Fehler,Fehler,Fehler,Fehler
+Deutsche Bank,yahoo,Close,Aktie_Fintech,0,,,DE0005140008,,,,DBK,,,,,,EUR,,DBK,XETRA,DBK.XETRA,Deutsche Bank Aktiengesellschaft,Common Stock,Germany,11.3,2021-11-01
+Deutsche Konsum REIT-AG,yahoo,Close,Aktie_Immo,0,,,DE000A14KRD3,,,,DKG,,,,,,EUR,,DKG,XETRA,DKG.XETRA,Deutsche Konsum REIT-AG,Common Stock,Germany,15.05,2021-11-01
+Deutsche Pfandbriefbank,yahoo,Close,Aktie_Fintech,0,,,DE0008019001,,,,PBB,,,,,,EUR,,PBB,XETRA,PBB.XETRA,Deutsche Pfandbriefbank AG,Common Stock,Germany,10.885,2021-11-01
+Deutsche Telekom,yahoo,Close,Aktie_Tech,0,,,DE0005557508,,,,DTE,,,,,,EUR,,DTE,XETRA,DTE.XETRA,Deutsche Telekom AG,Common Stock,Germany,16.246,2021-11-01
+Deutsche Wohnen,yahoo,Close,Aktie_Immo,0,,,DE000A0HN5C6,,,,DWNI,,,,,,EUR,,DWNI,XETRA,DWNI.XETRA,Deutsche Wohnen SE,Common Stock,Germany,43.47,2021-11-01
+DIC Asset AG ,yahoo,Close,Aktie_Immo,0,,,DE000A1X3XX4,,,,DIC,,,,,,EUR,,DIC,XETRA,DIC.XETRA,DIC Asset AG,Common Stock,Germany,15.16,2021-11-01
+Dt. Beteiligungen AG,yahoo,Close,Aktie_Beteiligung,0,,,DE000A1TNUT7,,,,DBAN,,,,,,EUR,,DBAN,XETRA,DBAN.XETRA,Deutsche Beteiligungs AG,Common Stock,Germany,39.9,2021-11-01
+DWS,yahoo,Close,Aktie_Bank,0,,,DE000DWS1007,,,,DWS,,,,,,EUR,,DWS,XETRA,DWS.XETRA,DWS Group GmbH & Co. KGaA,Common Stock,Germany,37.6,2021-11-01
+Easjet,yahoo,Close,Aktie_Travel,0,1,,GB00B7KR2P84,,,,EJT1,,,,,,EUR,,EZJ,LSE,EZJ.LSE,easyJet plc,Common Stock,UK,625.6,2021-11-01
+EM Infrastructure ETF,yahoo,Close,ETF_Land,0,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,,US4642882165,,,,EMIF,,,,,,USD,,EMIF,US,EMIF.US,iShares Emerging Markets Infrastructure ETF,ETF,USA,24.295,2021-11-01
+Emerging Asia,yahoo,Close,ETF_Region,0,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,,US78463X3017,,,,GMF,,,,,,USD,,GMF,US,GMF.US,SPDR S&P Emerging Asia Pacific ETF,ETF,USA,127.77,2021-11-01
+Emerging Markets ETF,yahoo,Close,Aktien_Emerging,0,,,US4642872349,,,,EEM,,,,,,USD,,EEM,US,EEM.US,iShares MSCI Emerging Markets ETF,ETF,USA,51.32,2021-11-01
+ENCAVIS AG,yahoo,Close,Aktie_Energie,1,,,DE0006095003,1,,,CAP1,,,,,,EUR,,ECV,XETRA,ECV.XETRA,Encavis AG,Common Stock,Germany,17.95,2021-11-01
+EOS,yahoo,Close,Krypto,1,,,EOS,,,,,,,,,,USD,,EOS-USD,CC,EOS-USD.CC,EOS,Currency,Unknown,4.6613,2021-11-02
+Euronav,yahoo,Close,Aktie_OIL,0,,,BE0003816338,,,,EURN,,,,,,USD,,EURN,US,EURN.US,Euronav NV,Common Stock,USA,10.6,2021-11-01
+Euwax,yahoo,Close,Aktie_Bank,1,,,DE0005660104,,,,EUX,,,,,,EUR,,EUX,F,EUX.F,EUWAX Aktiengesellschaft,Common Stock,Germany,69.5,2021-11-01
+FASHIONETTE,yahoo,Close,Aktie_Konsum,1,,,DE000A2QEFA1,,,,FSNT,,,,Kursziel 60,Berenberg belässt Fashionette auf 'Buy' - Ziel 60 Euro | MarketScreener,EUR,,FSNT,XETRA,FSNT.XETRA,fashionette Ag,Common Stock,Germany,17.15,2021-11-01
+FED EX,yahoo,Close,Aktie_Transport,0,Focus Money 38/2019,,US31428X1063,,,,FDX,,,,,,EUR,,FDX,US,FDX.US,FedEx Corporation,Common Stock,USA,235.64,2021-11-01
+FinLab AG,yahoo,Close,Aktie_Fintech,0,,,DE0001218063,,,,A7A,,,,,,EUR,,A7A,XETRA,A7A.XETRA,FinLab AG,Common Stock,Germany,24.7,2021-11-01
+Flughafen Wien,yahoo,Close,Aktie_Leisure,0,,,AT00000VIE62,,,,FLU,,,,,,EUR,,FLU,VI,FLU.VI,Flughafen Wien Aktiengesellschaft,Common Stock,Austria,28.55,2021-11-01
+Fox E-Mobility,yahoo,Close,Aktie_Tech,0,,,DE000A2NB551,,,,CT4,,,,,,EUR,,CT4,DU,CT4.DU,,,,,
+Francotyp Postalia,yahoo,Close,Aktie_Industrie,0,7,,DE000FPH9000,,,,FPH,,,,,,EUR,,FPH,XETRA,FPH.XETRA,Francotyp-Postalia Holding AG,Common Stock,Germany,2.93,2021-11-01
+Fraport,yahoo,Close,Aktie_Travel,0,,,DE0005773303,,,,FRA,,,,,,EUR,,FRA,XETRA,FRA.XETRA,Fraport AG,Common Stock,Germany,63.5,2021-11-01
+Freenet,yahoo,Close,Aktie_Tech,1,,,DE000A0Z2ZZ5,,,,FNTN,,,,,,EUR,,FNTN,XETRA,FNTN.XETRA,freenet AG,Common Stock,Germany,22.66,2021-11-01
+Fresenius,yahoo,Close,Aktie_Industrie,1,8,,DE0005785604,,,,FRE,,,,,,EUR,,FRE,XETRA,FRE.XETRA,Fresenius SE & Co. KGaA,Common Stock,Germany,39.91,2021-11-01
+Frontier,yahoo,Close,ETF_Region,0,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,,US4642861458,,,,FM,,,,,,USD,,FM,US,FM.US,iShares MSCI Frontier and Select EM ETF,ETF,USA,35.94,2021-11-01
+Frontline,yahoo,Close,Aktie_Transport,0,,,BMG3682E1921,,,,FRO,,,,,,USD,,FRO,US,FRO.US,Frontline Ltd,Common Stock,USA,9.13,2021-11-01
+Gamestop,yahoo,Close,Aktie_Tech,0,,,DE0005495626,,,,GME,,,,,,USD,,GME,XETRA,GME.XETRA,Geratherm Medical AG,Common Stock,Germany,9.2,2021-11-01
+GBK Beteiligungsen AG,yahoo,Close,Aktie_Beteiligung,0,,,DE0005850903,,,,GBQ,,,,,,EUR,,GBQ,HM,GBQ.HM,GBK Beteiligungen AG,Common Stock,Germany,6.25,2021-11-01
+Gesco AG,yahoo,Close,Aktie_Beteiligung,0,,,DE000A1K0201,,,,GSC1,,,,,,EUR,,GSC1,XETRA,GSC1.XETRA,Gesco AG,Common Stock,Germany,23.5,2021-11-01
+Gilead Sciences,yahoo,Close,Aktie_Biotech,0,,,US3755581036,,,,GILD,,,,,,USD,,GILD,US,GILD.US,Gilead Sciences Inc,Common Stock,USA,65.64,2021-11-01
+GK Software,yahoo,Close,Aktie_Tech,0,Börse Online 10S. 22,,DE0007571424,,,,GKS,,,,,,EUR,,GKS,XETRA,GKS.XETRA,GK Software SE,Common Stock,Germany,163,2021-11-01
+GLAXOSMITHKLINE PLC,yahoo,Close,Aktie_Pharma,1,,,GB0009252882,1,,,GSK,,,,,,USD,,GSK,LSE,GSK.LSE,GlaxoSmithKline plc,Common Stock,UK,1544.4,2021-11-01
+GLOBAL X URANIUM ETF,yahoo,Close,Aktie_Uran,0,,,US37954Y8710,,,,URA,,,,,,USD,,URA,US,URA.US,Global X Funds - Global X Uranium ETF,ETF,USA,27.67,2021-11-01
+Goldminen,yahoo,Close,ETF_Rohstoff,0,,,US92189F1066,,,,GDX,,,,,,AUD,,GDX,US,GDX.US,VanEck Vectors Gold Miners ETF,ETF,USA,31.86,2021-11-01
+Grayscale Bitcoin Trust,yahoo,Close,Krypto1,0,,,US3896371099,,,,GBTC,,,,,,USD,,GBTC,US,GBTC.US,Grayscale Bitcoin Trust (BTC),Common Stock,USA,49.24,2021-11-01
+Griechenland,yahoo,Close,ETF_Land,0,,,US37954Y3190,,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,,GREK,,,,,,USD,,GREK,US,GREK.US,Global X MSCI Greece ETF,ETF,USA,28.37,2021-11-01
+Grieg Seafood ,yahoo,Close,Aktie_Konsum,0,,,NO0010365521,,,,GSF,,,,,,NOK,,GSF,OL,GSF.OL,Grieg Seafood ASA,Common Stock,Norway,92.7,2021-11-01
+Haemato,yahoo,Close,Aktie_Pharma,0,,,DE000A289VV1,,,,HAEK,,,,,,EUR,,HAEK,XETRA,HAEK.XETRA,HAEMATO AG,Common Stock,Germany,23.8,2021-11-01
+Hamborner,yahoo,Close,Aktie_Immo,1,,,DE000A3H2333,,,,HAB,,,,,,EUR,,HABA,XETRA,HABA.XETRA,Hamborner REIT AG,Common Stock,Germany,9.666,2021-11-01
+Hapag-Lloyd,yahoo,Close,Aktie_Leisure,0,,,DE000HLAG475,,,,HLAG,,,,,,EUR,,HLAG,XETRA,HLAG.XETRA,Hapag-Lloyd Aktiengesellschaft,Common Stock,Germany,198.7,2021-11-01
+Heliad Equites,yahoo,Close,Aktie_Beteiligung,0,,,DE000A0L1NN5,,,,HPBK,,,,,,EUR,,HPBK,XETRA,HPBK.XETRA,Heliad Equity Partners GmbH & Co. KGaA,Common Stock,Germany,11.55,2021-11-01
+Helma Eigenbau,yahoo,Close,Aktie_Leisure,0,,,DE000A0EQ578,,,,H5E,,,,,,EUR,,H5E,XETRA,H5E.XETRA,HELMA Eigenheimbau Aktiengesellschaft,Common Stock,Germany,63.6,2021-11-01
+Hemp ETF,yahoo,Close,ETF_Sektor,0,,,CA44054J1012,,,,HMLSF,,,,,,USD,,HMLSF,US,HMLSF.US,Fehler,Fehler,Fehler,Fehler,Fehler
+Holiday Check,yahoo,Close,Aktie_Leisure,0,,,DE0005495329,,,,HOC,,,,,,EUR,,HOC,XETRA,HOC.XETRA,HolidayCheck Group AG,Common Stock,Germany,2.7,2021-11-01
+Home 24,yahoo,Close,Aktie_Tech,0,,,DE000A14KEB5,,,,H24,,,,,,EUR,,H24,XETRA,H24.XETRA,home24 SE,Common Stock,Germany,11.52,2021-11-01
+Hong Kong,yahoo,Close,ETF_Land,0,,,US4642868719,,,,EWH,,,,,,USD,,EWH,US,EWH.US,iShares Inc. - iShares MSCI Hong Kong ETF,ETF,USA,24.64,2021-11-01
+Hyundai,yahoo,Close,Aktie_Auto,0,,,KR7005380001,,,,HYMTF,,,,,,USD,,HYMTF,US,HYMTF.US,,,,,
+IBM,yahoo,Close,Aktie_Tech,0,,,US4592001014,,,,,,,,,,USD,,IBM,US,IBM.US,International Business Machines Corporation,Common Stock,USA,126.28,2021-11-01
+Iboxx High Yield Corp,yahoo,Close,ETF_Renten,0,,,US4642885135,,,,HYG,,,,,,USD,,HYG,US,HYG.US,iShares Trust - iShares iBoxx $ High Yield Corporate Bond ETF,ETF,USA,86.56,2021-11-01
+India Small Cap,yahoo,Close,ETF_Small_Cap,0,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,,US46429B6149,,,,SMIN,,,,,,USD,,SMIN,US,SMIN.US,iShares MSCI India Small-Cap ETF,ETF,USA,61.15,2021-11-01
+Indien,yahoo,Close,ETF_Land,0,,,LU2082996112,,,,INDA,,,,,,USD,,INDA,XETRA,INDA.XETRA,Fehler,Fehler,Fehler,Fehler,Fehler
+Indien,yahoo,Close,ETF_Land,0,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,,US46137R1095,,,,PIN ,,,,,,USD,,PIN,US,Fehler.Fehler,Fehler,Fehler,Fehler,Fehler,Fehler
+Indus,yahoo,Close,Aktie_Beteiligung,1,,,DE0006200108,,,Börse Online 34 S.18,INH,,,,,,EUR,,INH,XETRA,INH.XETRA,INDUS Holding AG,Common Stock,Germany,34.6,2021-11-01
+Infineon,yahoo,Close,Aktie_Tech,0,,,DE0006231004,,,,IFX,,,,,,EUR,,IFX,XETRA,IFX.XETRA,Infineon Technologies AG,Common Stock,Germany,40.71,2021-11-01
+Innovative Industrial ,yahoo,Close,Aktie_Pharma,0,,,US45781V1017,,,,IIPR,,,,,,USD,,IIPR,US,IIPR.US,Innovative Industrial Properties Inc,Common Stock,USA,268.45,2021-11-01
+INTEL CORP,yahoo,Close,Aktie_Tech,1,,,US4581401001,1,,,INTC,,,,,,USD,,INTC,US,INTC.US,Intel Corporation,Common Stock,USA,49.55,2021-11-01
+Iota,yahoo,Close,Krypto,0,,,MIOTA-USD,,,,,,,,,,USD,,MIOTA-USD,CC,MIOTA-USD.CC,,,,,
+iPath VIX Mid-Term  (Long),yahoo,Close,Vola,0,,,US06740C5195,,,,VXZ,,,,,,USD,,VXZ,US,VXZ.US,,,,,
+iPath VIX Short-Term (Long),yahoo,Close,Vola,0,,,US06746P6218,,,,VXX,,,,,,USD,,VXX,US,VXX.US,,,,,
+irobot,yahoo,Close,Aktie_Tech,1,,,US4627261005,,,,IRBT,,,,,,USD,,IRBT,US,IRBT.US,iRobot Corporation,Common Stock,USA,88.53,2021-11-01
+iShares 20+  Treasury Bond ETF ,yahoo,Close,ETF_Renten,0,,,US4642874329,,,,TLT,,,,,,USD,,TLT,US,TLT.US,iShares 20+ Year Treasury Bond ETF,ETF,USA,146.44,2021-11-01
+iShares Asia Pacific Sel. Div.,yahoo,Close,ETF_Region,1,,,DE000A0H0744,,,,EXXW,,,,,,EUR,,EXXW,XETRA,EXXW.XETRA,Fehler,Fehler,Fehler,Fehler,Fehler
+iShares China Bond CNY,yahoo,Close,ETF_Renten,1,,,IE00BYPC1H27,,,,,,,,,,EUR,,ICGB,XETRA,ICGB.XETRA,iShares IV Public Limited Company - iShares China Government Bond 1-10yr UCITS ETF,ETF,Germany,4.8141,2021-11-01
+iShares EM Dividend ,yahoo,Close,ETF_Region,1,,,IE00B652H904,,,,DVYE,,,,,,USD,,SEDY,LSE,SEDY.LSE,iShares V Public Limited Company - iShares EM Dividend UCITS ETF,ETF,UK,1571.25,2021-11-01
+ishares Fallen Angles,yahoo,Close,ETF_Renten,0,,,ie00b99fl386,,,,IBC7,,,,,,EUR,,IBC7,XETRA,IBC7.XETRA,,,,,
+iShares Global Clean Energy,yahoo,Close,ETF_Sektor,1,,,IE00B1XNHC34,,,,IQQH,,,,,,EUR,,INRG,LSE,INRG.LSE,iShares II Public Limited Company - iShares Global Clean Energy UCITS ETF,ETF,UK,1073.5,2021-11-01
+iShares iBoxx $ Investment Grade ,yahoo,Close,ETF_Renten,0,,,DE000A0DPYY0,,,,LQD,,,,,,USD,,LQD,US,LQD.US,,,,,
+iShares MSCI Brazil Capped ,yahoo,Close,ETF_Land,0,,,US4642864007,,,,EWZ,,,,,,USD,,EWZ,US,EWZ.US,iShares MSCI Brazil ETF,ETF,USA,29.79,2021-11-01
+iShares MSCI Japan,yahoo,Close,ETF_Region,0,,,IE00B53QDK08,,,,EWJ,,,,,,USD,,CSJP,LSE,CSJP.LSE,iShares VII Public Limited Company - iShares MSCI Japan UCITS ETF USD (Acc),ETF,UK,13858,2021-11-01
+ishares MSCI World,yahoo,Close,ETF_Region,0,,,IE00B4L5Y983,,,,URTH,,,,,,USD,,SWDA,LSE,SWDA.LSE,iShares III Public Limited Company - iShares Core MSCI World UCITS ETF,ETF,UK,6430,2021-11-01
+iShares TIPS Bond ETF,yahoo,Close,ETF_Renten,0,,,US4642871762,,,,TIP,,,,,,USD,,TIP,US,TIP.US,iShares TIPS Bond ETF,ETF,USA,128.04,2021-11-01
+ISHARES USD TRES 20PLUS YR,yahoo,Close,ETF_Renten,1,,,IE00BSKRJZ44,1,,,IDTL,,,,,,USD,,IBTL,LSE,IBTL.LSE,iShares IV Public Limited Company - iShares $ Treasury Bond 20+yr UCITS ETF,ETF,UK,399.45,2021-11-01
+ISHSII-MSCI TURKEY UCITS USD,yahoo,Close,ETF_Land,0,,,IE00B1FZS574,,,,IQQ5,,,,,,EUR,,ITKY,LSE,ITKY.LSE,iShares II Public Limited Company - iShares MSCI Turkey UCITS ETF,ETF,UK,882.3151,2021-11-01
+ITM Power,yahoo,Close,Aktie_Energie,0,,,GB00B0130H42,,,,IJ8,,,,,,EUR,,ITM,LSE,ITM.LSE,ITM Power Plc,Common Stock,UK,509.5,2021-11-01
+KIRKLAND LAKE GOLD LTD,yahoo,Close,Aktie_Rohstoff,1,,,CA49741E1007,1,,,KL,,,,,,USD,,KL,US,KL.US,Kirkland Lake Gold Ltd,Common Stock,USA,42.16,2021-11-01
+Klöckner,yahoo,Close,Aktie_Industrie,0,9,,DE000KC01000,,,,KCO,,,,,,EUR,,KCO,XETRA,KCO.XETRA,Klöckner & Co SE,Common Stock,Germany,11.98,2021-11-01
+L&G  ALL COMMOD,yahoo,Close,ETF_Rohstoff,1,,,IE00B4WPHX27,1,,,CMFP,,,,,,GBP,,CMFP,LSE,CMFP.LSE,Legal & General UCITS ETF Plc - L&G Longer Dated All Commodities UCITS ETF,ETF,UK,1444.11,2021-11-01
+Latein Amerika,yahoo,Close,ETF_Region,0,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,,US4642873909,,,,ILF,,,,,,USD,,ILF,US,ILF.US,iShares Latin America 40 ETF,ETF,USA,25.37,2021-11-01
+Linde,yahoo,Close,Aktie_Chemie,0,,,IE00BZ12WP82,,,,LIN,,,,,,EUR,,LIN,US,LIN.US,Linde plc,Common Stock,USA,322.97,2021-11-01
+Lockhead Martin,yahoo,Close,Aktie_Industrie,0,,,US5398301094,,,,LMT,,,,,,USD,,LMT,US,LMT.US,Lockheed Martin Corporation,Common Stock,USA,330.93,2021-11-01
+LPKF Laser,yahoo,Close,Aktie_Tech,0,8,,DE0006450000,,,,LPK,,,,,,EUR,,LPK,XETRA,LPK.XETRA,LPKF Laser & Electronics AG,Common Stock,Germany,20.58,2021-11-01
+Lufthansa,yahoo,Close,Aktie_Leisure,0,,,DE0008232125,,,,LHA,,,,,,EUR,,LHA,XETRA,LHA.XETRA,Deutsche Lufthansa AG,Common Stock,Germany,5.822,2021-11-01
+Lyxor Australia,yahoo,Close,ETF_Region,1,,,LU0496786905,,,,LYPU,,,,,,EUR,,LYPU,XETRA,LYPU.XETRA,Multi Units Luxembourg - Lyxor Australia (S&P/ASX 200) UCITS ETF,ETF,Germany,49.765,2021-11-01
+LYXOR Goldmines,yahoo,Close,Aktie_Rohstoff,1,,,LU0488317701,1,,,CBGOLD,,,,,,CHF,,CD91,XETRA,CD91.XETRA,Lyxor NYSE Arca Gold BUGS (DR) UCITS ETF,ETF,Germany,21.595,2021-11-01
+Lyxor MSCI India UCITS ETF,yahoo,Close,Aktien_Emerging,0,,,FR0010361683,,,,INR,,,,,,EUR,,INR,PA,INR.PA,Multi Units France - Lyxor MSCI India UCITS ETF,ETF,France,23.654,2021-11-01
+Lyxor MSCI Turkey UCITS ETF,yahoo,Close,Aktien_Emerging,0,,,LU1900067601,,,,TUR,,,,,,EUR,,LTUR,XETRA,LTUR.XETRA,Lyxor MSCI Turkey UCITS ETF Acc,ETF,Germany,22.15,2021-11-01
+Malaysia,yahoo,Close,ETF_Land,0,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,,US46434G8143,,,,EWM,,,,,,USD,,EWM,US,EWM.US,iShares MSCI Malaysia ETF,ETF,USA,25.68,2021-11-01
+MARKET ACCESS RGR INTL CMDTY,yahoo,Close,ETF_Rohstoff,1,,,LU0249326488,1,,,M9SA,,,,,,EUR,,M9SA,XETRA,M9SA.XETRA,Market Access Rogers International Commodity Index UCITS ETF,ETF,Germany,23.275,2021-11-01
+Mega Uranium,yahoo,Close,Aktie Rohstoff,0,,,CA58516W1041,,,,MGAFF,,,,,,USD,,MGA,TO,MGA.TO,Mega Uranium Ltd,Common Stock,Canada,0.345,2021-11-01
+Melon,yahoo,Close,Krypto,1,,,MLN-USD.CC,,,,,,,,,,USD,,MLN-USD,CC,MLN-USD.CC,Melon,Currency,Unknown,131.5638,2021-11-02
+Metro,yahoo,Close,Aktie_Konsum,0,,,DE000BFB0019,,,,B4B,,,,,,EUR,,B4B,XETRA,B4B.XETRA,Metro AG,Common Stock,Germany,11.1,2021-11-01
+Moderna,yahoo,Close,Aktie_Biotech,1,,,US60770K1079,,,,MRNA,,,,,,USD,,MRNA,US,MRNA.US,Moderna Inc,Common Stock,USA,337.17,2021-11-01
+Monero,yahoo,Close,Krypto,0,,,XMR-USD.CC,,,,,,,,,,USD,,XMR-USD,CC,XMR-USD.CC,Monero,Currency,Unknown,271.097,2021-11-02
+Morphosys,yahoo,Close,Aktie_Pharma,0,8,,DE0006632003,,,,MOR,,,,,,EUR,,MOR,XETRA,MOR.XETRA,MorphoSys AG,Common Stock,Germany,40.42,2021-11-01
+Mowi ,yahoo,Close,Aktie_Konsum,0,,,NO0003054108,,,,MOWI,,,,,,NOK,,0OAW,LSE,0OAW.LSE,Mowi ASA,Common Stock,UK,246.464,2021-11-01
+MSCI Finland,yahoo,Close,ETF_Land,0,,,US46429B5158,,,,EFNL,,,,,,USD,,EFNL,US,EFNL.US,iShares Trust - iShares MSCI Finland ETF,ETF,USA,48.2202,2021-11-01
+MSCI Norway,yahoo,Close,ETF_Land,0,,,US46429B4995,,,,ENOR,,,,,,USD,,ENOR,US,ENOR.US,iShares MSCI Norway ETF,ETF,USA,31.3,2021-11-01
+MSCI South Korea,yahoo,Close,ETF_Land,0,,,US4642867729,,,,EWY,,,,,,USD,,EWY,US,EWY.US,iShares MSCI South Korea ETF,ETF,USA,79.84,2021-11-01
+MSCI World Spyder,yahoo,Close,ETF_Region,0,,,IE00BFY0GT14,,,,SPPW,,,,,,EUR,,SPPW,XETRA,SPPW.XETRA,SSGA SPDR ETFS Europe I Public Limited Company - SPDR MSCI World UCITS ETF,ETF,Germany,27.596,2021-11-01
+Mutares,yahoo,Close,Aktie_Beteiligung,0,,,DE000A2NB650,,,,MUX,,,,,,EUR,,MUX,XETRA,MUX.XETRA,Mutares SE & Co. KGaA,Common Stock,Germany,23.9,2021-11-01
+MVISE AG,yahoo,Close,Aktie_Beratung,1,,,DE0006204589,,,,C1V,,,,,,EUR,,C1V,XETRA,C1V.XETRA,mVISE AG,Common Stock,Germany,1.87,2021-11-01
+MYNARIC AG,yahoo,Close,Aktie_Tech,1,,,DE000A0JCY11,1,,,M0Y,,,,,,EUR,,M0Y,XETRA,M0Y.XETRA,Mynaric AG,Common Stock,Germany,62.7,2021-11-01
+Naga,yahoo,Close,Aktie_Fintech,0,,,DE000A161NR7,,,,N4G,,,,,,EUR,,N4G,XETRA,N4G.XETRA,The NAGA Group AG,Common Stock,Germany,8.53,2021-11-01
+Nasdaq,yahoo,Close,Aktie_Tech,0,,,US6311031081,,,,QQQ,,,,,,USD,,NDAQ,US,NDAQ.US,Nasdaq Inc,Common Stock,USA,209.9,2021-11-01
+Nestle,yahoo,Close,Aktie_Konsum,0,,,US6410694060,,,,NESM,,,,,,EUR,,NSRGY,US,NSRGY.US,Nestlé S.A,Common Stock,USA,132.51,2021-11-01
+New Mountain Finance ,yahoo,Close,Aktie_Rohstoff,1,,,US6475511001,,,,NMFC,,,,,,USD,,NMFC,US,NMFC.US,New Mountain Finance Corporation,Common Stock,USA,14,2021-11-01
+Nio Auto,yahoo,Close,Aktie_Auto,0,,,US62914V1061,,,,NIO,,,,,,USD,,NIO,US,NIO.US,NIO Inc,Common Stock,USA,40.84,2021-11-01
+Nokia,yahoo,Close,Aktie_Tech,1,5 EuroamSonntag46 S.41,,FI0009000681,,,,NOK,,,,,,USD,,NOKIA,ST,NOKIA.ST,Nokia Corp. SEK,Common Stock,Sweden,48.6,2021-11-01
+Northern Data AG,yahoo,Close,Aktie_Tech,0,,,DE000A0SMU87,,,,NB2,,,,,,EUR,,NB2,XETRA,NB2.XETRA,Northern Data AG,Common Stock,Germany,56.8,2021-11-01
+Numerai,yahoo,Close,Krypto,1,,,NMR-USD.CC,,,,,,,,,,USD,,NMR-USD,CC,NMR-USD.CC,,,,,
+NVIDIA CORP,yahoo,Close,Aktie_Tech,1,,,US67066G1040,1,,,NVDA,,,,,,USD,,NVDA,US,NVDA.US,NVIDIA Corporation,Common Stock,USA,258.27,2021-11-01
+Oesterreich Post,yahoo,Close,Aktie_Leisure,0,,,AT0000APOST4,,,,POST,,,,,,EUR,,POST,VI,POST.VI,Österreichische Post AG,Common Stock,Austria,37.2,2021-11-01
+ORANGE,yahoo,Close,Aktie_Tele,1,,,FR0000133308,1,,,ORA,,,,,,EUR,,ORA,PA,ORA.PA,Orange S.A,Common Stock,France,9.56,2021-11-01
+Palantir,yahoo,Close,Aktie_Tech,0,,,US69608A1088,,,,PLTR,,,,,,USD,,PLTR,US,PLTR.US,Palantir Technologies Inc,Common Stock,USA,26.56,2021-11-01
+PEABODY ENERGY,yahoo,Close,Aktie_Rohstoff,0,,,US7045511000,,,,PBE,,,,,,EUR,,BTU,US,BTU.US,Peabody Energy Corporation,Common Stock,USA,12.12,2021-11-01
+Peach Property,yahoo,Close,Aktie_Immo,0,,,CH0118530366,,,,PEAN,,,,,,CHF,,PEAN,SW,PEAN.SW,Peach Property Group AG,Common Stock,Switzerland,62.2,2021-11-01
+PFERDEWETTEN.DE AG,yahoo,Close,Aktie_Leisure,0,,,DE000A2YN777,,,,EMH,,,,,,EUR,,EMH,F,EMH.F,Fehler,Fehler,Fehler,Fehler,Fehler
+Pfizer,yahoo,Close,Aktie_Pharma,0,,,US7170811035,,,,PFE,,,,,,USD,,PFE,US,PFE.US,Pfizer Inc,Common Stock,USA,43.64,2021-11-01
+Ping,yahoo,Close,Aktie_Fintech,0,,,CNE1000003X6,,,,PZXB,,,,,,EUR,,PZX,F,PZX.F,Fehler,Fehler,Fehler,Fehler,Fehler
+Pinterest,yahoo,Close,Aktie_Tech,0,,,US72352L1061,,,,PINS,,,,,,USD,,PINS,US,PINS.US,Pinterest Inc,Common Stock,USA,45.26,2021-11-01
+Plug Power,yahoo,Close,Aktie Rohstoff,0,,,US72919P2020,,,,PLUG,,,,,,USD,,PLUG,US,PLUG.US,Plug Power Inc,Common Stock,USA,41.65,2021-11-01
+POLSKI KONCERN NAFTOWY ORLEN,yahoo,Close,Aktie_Energie,1,,,PLPKN0000018,1,,,PKN,,,,,IR events - PKN ORLEN,EUR,,PKN,WAR,PKN.WAR,Polski Koncern Naftowy ORLEN S.A.,Common Stock,Poland,86.06,2021-10-29
+POLYTEC HOLDING AG,yahoo,Close,Aktie_Konsum,1,,,AT0000A00XX9,1,,,PYT,,,,,,USD,,PYT,VI,PYT.VI,Polytec Holding AG,Common Stock,Austria,8.7,2021-11-01
+Powercell,yahoo,Close,Aktie Rohstoff,0,,,SE0006425815,,,,27W,,,,,,EUR,,PCELL,F,PCELL.ST,PowerCell Sweden AB (publ),Common Stock,Sweden,192.6,2021-11-01
+ProShares VIX Mid-Term (Long),yahoo,Close,Vola,0,,,US74347W3381,,,,VIXM,,,,,,USD,,VIXM,US,VIXM.US,ProShares VIX Mid-Term Futures ETF,ETF,USA,30.2,2021-11-01
+ProShares VIX Short-Term (Long),yahoo,Close,Vola,0,,,US74347W1716,,,,VIXY,,,,,,USD,,VIXY,US,VIXY.US,,,,,
+ProShares VIX Short-Term( Short ),yahoo,Close,Vola,0,,,US74347W1302,,,,SVXY,,,,,,USD,,SVXY,US,SVXY.US,"ProShares Short VIX Short-Term Futures ETF_x000D_
+",ETF,USA,62.04,2021-11-01
+ProSieben,yahoo,Close,Aktie_Leisure,0,Börse Onlien 32,,DE000PSM7770,,,,PSM,,,,,,EUR,,PSM,XETRA,PSM.XETRA,ProSiebenSat.1 Media SE,Common Stock,Germany,14.815,2021-11-01
+Prosus,yahoo,Close,Aktie_Tech,0,,,NL0013654783,,,,PROSF,,,,,,USD,,PRX,AS,PRX.AS,Prosus N.V,Common Stock,Netherlands,76.12,2021-11-01
+Qiwi,yahoo,Close,Aktie_Tech,0,Börseonline 180221,,US74735M1080,,,,QIWI,,,,,,USD,,QIWI,US,QIWI.US,QIWI plc,Common Stock,USA,9.04,2021-11-01
+Quantumscape,yahoo,Close,Aktie Rohstoff,0,,,US74767V1098,,,,QS,,,,,,USD,,QS,US,QS.US,QuantumScape Corporation,Common Stock,USA,29.77,2021-11-01
+Renault,yahoo,Close,Aktie_Auto,0,,,FR0000131906,,,,RNL,,,,,,EUR,,RNO,PA,RNO.PA,Renault SA,Common Stock,France,31.73,2021-11-01
+Rio Tinto,yahoo,Close,Aktie Rohstoff,1,,,GB0007188757,,,,RIO,,,,,,USD,,RIO,LSE,RIO.LSE,Rio Tinto Group,Common Stock,UK,4560.5,2021-11-01
+Robots_AI,yahoo,Close,ETF_Sektor,0,,,US37954Y7159,,,,BOTZ,,,,,,USD,,BOTZ,US,BOTZ.US,Global X Robotics & Artificial Intelligence ETF,ETF,USA,38.48,2021-11-01
+Rocket Internet,yahoo,Close,Aktie_Tech,0,,,DE000A12UKK6,,,,RKET,,,,,,EUR,,RKET,HM,RKET.HM,Fehler,Fehler,Fehler,Fehler,Fehler
+RTL GROUP,yahoo,Close,Aktie_Medien,1,,,LU0061462528,1,,,RRTL,,,,,,EUR,,RRTL,XETRA,RRTL.XETRA,RTL Group S.A,Common Stock,Germany,50.6,2021-11-01
+Russia Small Cap,yahoo,Close,ETF_Small_Cap,0,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,,US92189F7345,,,,RSXJ,,,,,,USD,,RSXJ,US,RSXJ.US,VanEck Vectors ETF Trust - VanEck Vectors Russia Small-Cap ETF,ETF,USA,40.15,2021-11-01
+Russland,yahoo,Close,Aktien_Emerging,0,,,US92189F4037,,,,RSX,,,,,,USD,,RSX,US,RSX.US,VanEck Vectors Russia ETF,ETF,USA,32.32,2021-11-01
+Ryanair,yahoo,Close,Aktie_Travel,0,1,,IE00BYTBXV33,,,,RY4C,,,,,,EUR,,RY4C,IR,RY4C.IR,Ryanair Holdings plc,Common Stock,Ireland,17.15,2021-11-01
+SAP,yahoo,Close,Aktie_Software,0,8,,DE0007164600,,,,SAP,,,,,,EUR,,SAP,XETRA,SAP.XETRA,SAP SE,Common Stock,Germany,126.32,2021-11-01
+SCHERZER & CO AG,yahoo,Close,Aktie_Beteiligung,1,,,DE0006942808,1,,,PZS,,,,,,EUR,,PZS,XETRA,PZS.XETRA,Scherzer & Co. AG,Common Stock,Germany,3.18,2021-11-01
+Scor,yahoo,Close,Aktie_Fintech,1,Börse Online 32 S. 32,,FR0010411983,,,,SCR,,,,,,EUR,,SCR,PA,SCR.PA,SCOR SE,Common Stock,France,28.95,2021-11-01
+Scout24,yahoo,Close,Aktie_Tech,0,"Focus Money 34,14",,DE000A12DM80,,https://www.onvista.de/aktien/SCOUT24-AG-Aktie-DE000A12DM80,,G24,,,,,,EUR,,G24,XETRA,G24.XETRA,Scout24 AG,Common Stock,Germany,61,2021-11-01
+Signify,yahoo,Close,Aktie_Software,0,,,NL0011821392,,,,G14,,,,,,EUR,,LIGHT,AS,LIGHT.AS,Signify N.V,Common Stock,Netherlands,41.48,2021-11-01
+Silber,yahoo,Close,ETF_Rohstoff,0,,,US46428Q1094,,,,SLV,,,,,,USD,,SLV,US,SLV.US,iShares Silver Trust,ETF,USA,22.23,2021-11-01
+Simon Property Group,yahoo,Close,Aktie_Immo,0,Apartment Blocks,,US8288061091,Wo man 100.000 US-Dollar sofort investieren kann Von The Motley Fool (investing.com),,,SPG,,,,,,USD,,SPG,US,SPG.US,,,,,
+Singulus Technologies AG,yahoo,Close,Aktie_Tech,0,Börse Online 10S. 23,,DE000A1681X5,,,,SNG,,,,,,EUR,,SNG,XETRA,SNG.XETRA,Singulus Technologies AG,Common Stock,Germany,4.8,2021-11-01
+SIXT,yahoo,Close,Aktie_Leisure,0,,,DE0007231334,,,,SIX3,,,,,,EUR,,SIX3,XETRA,SIX3.XETRA,Sixt SE,Common Stock,Germany,88,2021-11-01
+SIXT LEASING SE,yahoo,Close,Aktie_Auto,1,,,DE000A0DPRE6,1,,,LNSX,,,,,,EUR,,LNSX,XETRA,LNSX.XETRA,Sixt Leasing SE,Common Stock,Germany,17.2,2021-11-01
+SMT Scharf,yahoo,Close,Aktie_Industrie,0,3,,DE0005751986,,,,S4A,,,,,,EUR,,S4A,XETRA,S4A.XETRA,SMT Scharf AG,Common Stock,Germany,15.7,2021-11-01
+Societe General,yahoo,Close,Aktie_Bank,0,,,FR0000130809,,,,GLE,,,,,,EUR,,GLE,PA,GLE.PA,Société Générale Société anonyme,Common Stock,France,29.43,2021-11-01
+Software Aktiengesellschaft,yahoo,Close,Aktie_Tech,0,Börse Online 10S. 23,,DE000A2GS401,,,,SOW,,,,,,EUR,,SOW,XETRA,SOW.XETRA,Software Aktiengesellschaft,Common Stock,Germany,35.66,2021-11-01
+SPDR EUR DIV ARISTOCRATS,yahoo,Close,ETF_Region,1,,,IE00B5M1WJ87,1,,,SPYW,,,,,,GBP,,SPYW,XETRA,SPYW.XETRA,SSgA SPDR ETFs Europe I Public Limited Company - SPDR S&P Euro Dividend Aristocrats UCITS ETF,ETF,Germany,22.985,2021-11-01
+SPDR GOLD TRUST,yahoo,Close,ETF_Rohstoff,0,,,US78463V1070,,,,GLD,,,,,,USD,,GLD,US,GLD.US,SPDR Gold Trust,ETF,USA,167.52,2021-11-01
+SPDR S&P 500 ,yahoo,Close,ETF_Land,0,,,US78462F1030,,,,SPY,,,,,,USD,,SPY,US,SPY.US,SPDR S&P 500 ETF Trust,ETF,USA,460.04,2021-11-01
+Spotify,yahoo,Close,Aktie_Tech,0,,,LU1778762911,,,,SPOT,,,,,,USD,,SPOT,US,SPOT.US,Spotify Technology S.A,Common Stock,USA,300.95,2021-11-01
+Sss MicroTec AG,yahoo,Close,Aktie_Tech,0,Börse Online 10S. 24,,DE000A1K0235,,,,SMHN,,,,,,EUR,,SMHN,XETRA,SMHN.XETRA,SÜSS MicroTec SE,Common Stock,Germany,23.45,2021-11-01
+Steico,yahoo,Close,Aktie_Rohstoff,0,,,DE000A0LR936,,,,ST5,,,,,,EUR,,ST5,XETRA,ST5.XETRA,STEICO SE,Common Stock,Germany,115.4,2021-11-01
+Südzucker,yahoo,Close,Aktie_Konsum,0,,,DE0007297004,,,,SZU,,,,,,EUR,,SZU,XETRA,SZU.XETRA,Südzucker AG,Common Stock,Germany,13.67,2021-11-01
+SUSE SA,yahoo,Close,Aktie_Tech,1,,,LU2333210958,1,,,SUSE1,,,,,,EUR,,SUSE,XETRA,SUSE.XETRA,Fehler,Fehler,Fehler,Fehler,Fehler
+Tailwind Acquisition,yahoo,Close,Aktie_Energie,0,,,KYG8662F1274,,,,TWND,,,,,,USD,,TWND,US,Fehler.Fehler,Fehler,Fehler,Fehler,Fehler,Fehler
+Taiwan,yahoo,Close,ETF_Land,0,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,,US46434G7723,,,,EWT,,,,,,USD,,EWT,US,EWT.US,iShares MSCI Taiwan ETF,ETF,USA,63.41,2021-11-01
+Takkt,yahoo,Close,Aktie_Industrie,0,,,DE0007446007,,,,TTK,,,,,,EUR,,TTK,XETRA,TTK.XETRA,TAKKT AG,Common Stock,Germany,14,2021-11-01
+Teamviewer,yahoo,Close,Aktie_Tech,0,,,DE000A2YN900,,,,,,,,,,EUR,,TMV,XETRA,TMV.XETRA,TeamViewer AG,Common Stock,Germany,12.58,2021-11-01
+Telefonica,yahoo,Close,Aktie_Tech,0,Focus Money 34,,DE000A1J5RX9,,https://www.onvista.de/aktien/Telefonica-Deutschland-Aktie-DE000A1J5RX9,,O2D,,,,,,EUR,,O2D,XETRA,O2D.XETRA,Telefónica Deutschland Holding AG,Common Stock,Germany,2.289,2021-11-01
+Telefonica,yahoo,Close,Aktie_Tele,1,,,ES0178430E18,,,,,,,,,,EUR,,TEF,MC,TEF.MC,Telefónica S.A,Common Stock,Spain,3.8165,2021-11-01
+Tesla,yahoo,Close,Aktie_Auto,0,,,JP3633400001,,,,TSLA,,,,,,USD,,TSLA,US,7203.TSE,Toyota Motor Corporation,Common Stock,Japan,2048,2021-11-02
+Thailand,yahoo,Close,ETF_Land,0,https://seekingalpha.com/etfs-and-funds/etf-tables/emerging_markets,,US4642866242,,,,THD,,,,,,USD,,THD,US,THD.US,iShares MSCI Thailand ETF,ETF,USA,76.44,2021-11-01
+Toyota,yahoo,Close,Aktie_Auto,0,,,DE0007664005,,,,TOMA,,,,,,EUR,,VOW,XETRA,VOW.XETRA,Volkswagen AG,Common Stock,Germany,287.6,2021-11-01
+Trivago,yahoo,Close,Aktie_Leisure,0,,,US89686D1054,,,,TRVG,,,,,,USD,,TRVG,US,TRVG.US,trivago N.V,Common Stock,USA,2.64,2021-11-01
+Tron,yahoo,Close,Krypto1,0,,,TRX-USD.CC,,,,,,,,,,USD,,TRX-USD,CC,TRX-USD.CC,TRON,Currency,Unknown,0.1008,2021-11-02
+TUI AG ,yahoo,Close,Aktie_Leisure,0,,,DE000TUAG000,,,,TUI1,,,,,,EUR,,TUI,LSE,TUI.LSE,TUI AG,Common Stock,UK,245,2021-11-01
+Twilio Inc,yahoo,Close,Aktie_Tech,0,,,US90138F1021,,,,TWLO,,,,,,USD,,TWLO,US,TWLO.US,Twilio Inc,Common Stock,USA,300.6,2021-11-01
+UMT,yahoo,Close,Aktie_Tech,0,,,DE000A2YN702,,,,UMDK,,,,,,EUR,,UMDK,XETRA,UMDK.XETRA,UMT United Mobility Technology AG,Common Stock,Germany,8.82,2021-11-01
+Umweltbank,yahoo,Close,Aktie_Fintech,0,,,DE0005570808,,,,UBK,,,,,,EUR,,UBK,XETRA,UBK.XETRA,UmweltBank AG,Common Stock,Germany,20.8,2021-11-01
+United Internet,yahoo,Close,Aktie_Tech,0,,,DE0005089031,,,,UTDI,,,,,,EUR,,UTDI,XETRA,UTDI.XETRA,United Internet AG,Common Stock,Germany,32.92,2021-11-01
+URANIUM ENERGY ,yahoo,Close,Aktie_Uran,0,,,US9168961038,,,,UEC,,,,,,USD,,UEC,US,UEC.US,Uranium Energy Corp,Common Stock,USA,3.89,2021-11-01
+US Real Estate,yahoo,Close,Aktie_Immo,0,,,US9229085538,,,,VNQ,,,,,,USD,,VNQ,US,VNQ.US,Vanguard Specialized Funds - Vanguard Real Estate ETF,ETF,USA,109.58,2021-11-01
+USD EM Bonds,yahoo,Close,ETF_Renten,0,,,IE00B2NPKV68,,,,EMB,,,,,,USD,,SEMB,LSE,SEMB.LSE,iShares II Public Limited Company - iShares J.P. Morgan $ Emerging Markets Bond UCITS ETF,ETF,UK,7959.5,2021-11-01
+Vanguard FTSE 100 UCITS ETF (GBP),yahoo,Close,ETF_Vanguard,0,,,IE00B810Q511,,,,VUKE,,,,,,GBP,,VUKE,LSE,VUKE.LSE,Vanguard Funds Public Limited Company - Vanguard FTSE 100 UCITS ETF,ETF,UK,3193,2021-11-01
+Vanguard FTSE All-World UCITS ETF,yahoo,Close,ETF_Vanguard,0,,,IE00B3RBWM25,,,,VWCE,,,,,,EUR,,VWRL,LSE,VWRL.LSE,Vanguard Funds Public Limited Company - Vanguard FTSE All-World UCITS ETF,ETF,UK,89.92,2021-11-01
+Vanguard FTSE Emerging Markets ,yahoo,Close,ETF_Vanguard,0,,,IE00B3VVMM84,,,,VFEM,,,,,,EUR,,VFEM,LSE,VFEM.LSE,Vanguard Funds Public Limited Company - Vanguard FTSE Emerging Markets UCITS ETF,ETF,UK,50.255,2021-11-01
+Vanguard S&P 500 UCITS ETF,yahoo,Close,ETF_Vanguard,0,,,IE00B3XXRP09,,,,VOO,,,,,,USD,,VUSA,LSE,VUSA.LSE,anguard Funds Public Limited Company - Vanguard S&P 500 UCITS ETF,ETF,UK,63.9125,2021-11-01
+Vectron,yahoo,Close,Aktie_Software,0,,,DE000A0KEXC7,,,,V3S,,,,,,EUR,,V3S,XETRA,V3S.XETRA,Vectron Systems AG,Common Stock,Germany,9.29,2021-11-01
+Virgin Galatic,yahoo,Close,Aktie_Tech,0,,,CH0009153310,,,,SPCE,,,,,,USD,,SPCE,SW,SPCE.SW,Spice Private Equity AG,Common Stock,Switzerland,16.5,2021-10-29
+Volkswagen,yahoo,Close,Aktie_Auto,0,,,DE0007664039,,,,VOW3,,,,,,EUR,,VOW3,XETRA,VOW3.XETRA,Volkswagen AG,Common Stock,Germany,194.66,2021-11-01
+Vonovia,yahoo,Close,Aktie_Immo,1,,,DE000A1ML7J1,,,,VNA,,,,,,EUR,,VNA,XETRA,VNA.XETRA,Vonovia SE,Common Stock,Germany,52.74,2021-11-01
+Wallstreet Online,yahoo,Close,Aktie_Bank,0,,,DE000A2GS609,,,,WSO1,,,,,,EUR,,WSO1,XETRA,WSO1.XETRA,wallstreet:online AG,Common Stock,Germany,22.1,2021-11-01
+WisdomTree Physical Palladium,yahoo,Close,ETF_Rohstoff,0,,,DE000A0N62E5,,,,PHPD,,,,,,USD,,VZLB,XETRA,VZLB.XETRA,WisdomTree Physical Palladium EUR,ETF,Germany,166.11,2021-11-01
+WisdomTree Physical Platinum,yahoo,Close,ETF_Rohstoff,0,,,DE000A0N62D7,,,,PHPT,,,,,,USD,,VZLA,XETRA,VZLA.XETRA,WisdomTree Physical Platinum EUR,ETF,Germany,85.435,2021-11-01
+WT WTI CRUDE OIL,yahoo,Close,Aktie_Rohstoff,1,,,DE000A0KRJX4,1,,,OD7F,,,,,,USD,,OD7F,F,OD7F.F,ETFS WTI Crude Oil ETC,ETF,Germany,6.5605,2021-10-29
+X NIKKEI 225,yahoo,Close,ETF_Land,1,,,LU0839027447,1,,,XDJP,,,,,,EUR,,XDJP,LSE,XDJP.LSE,Xtrackers - Nikkei 225 UCITS ETF,ETF,UK,1969.25,2021-11-01
+Xtracker Phys Rhodium,yahoo,Close,ETF_Rohstoff,0,,,GB00B684MW17,,,,XRH0,,,,,,USD,,XRH0,LSE,XRH0.LSE,DB ETC PLC,ETF,UK,1273.5,2021-11-01
+Zoom,yahoo,Close,Aktie_Tech,0,,,US98980L1017,,,,ZM,,,,,,USD,,ZM,US,ZM.US,Zoom Video Communications Inc,Common Stock,USA,278.94,2021-11-01
+Zur Rose Group,yahoo,Close,Aktie_Pharma,0,8,,CH0042615283,,,,ROSE,,,,,,CHF,,ROSE,SW,ROSE.SW,Zur Rose Group AG,Common Stock,Switzerland,322,2021-11-01
+Zynga,yahoo,Close,Aktie_Tech,0,,,US98986T1088,,,,ZY3,,,,,,EUR,,ZNGA,US,ZNGA.US,Zynga Inc,Common Stock,USA,7.56,2021-11-01
+Etherium,yahoo,Close,Krypto,1,,,ETHERIUM,,,,,,,,,,USD,,,,,,,,,
+Dogecoin,yahoo,Close,Krypto1,0,,,DOGECOIN,,,,,,,,,,USD,,,,,,,,,
+Ripple,yahoo,Close,Krypto,0,,,RIPPLE,,,,,,,,,,USD,,,,,,,,,
+Stellar,yahoo,Close,Krypto1,0,,,XLM-USD,,,,,,,,,,USD,,,,,,,,,
+Uniswap,yahoo,Close,Krypto1,0,,,UNI,,,,,,,,,,USD,,,,,,,,,
+Polkadot,yahoo,Close,Krypto1,1,,,DOT-USD,,,,,,,,,,USD,,,,,,,,,
+Novavax,yahoo,Close,Aktie_Biotech,1,,,US6700024010,,,,,,,,,,USD,,,,,,,,,
+Peloton,yahoo,Close,Aktie_Konsum,0,,,US70614W1009,,,,,,,,,,USD,,,,,,,,,
+SYZYGY AG,yahoo,Close,Aktie_Beratung,0,,,DE0005104806,,,,,,,,,,EUR,,,,,,,,,
+Sand,yahoo,Close,Krypto,1,,,SAND-USD,,,,,,,,,,USD,,,,,,,,,
+Mana_Dec,yahoo,Close,Krypto,1,,,MANA-USD,,,,,,,,,,USD,,,,,,,,,
+RDD,yahoo,Close,Krypto,1,,,RDD-USD,,,,,,,,,,USD,,,,,,,,,
+Vale S.A,yahoo,Close,Aktie Rohstoff,1,,,BRVALEACNOR0,,,,,,,,,,EUR,,,,,,,,,
+Sprott Physical Uran,yahoo,Close,Aktie Rohstoff,1,,,CA85210A1049,,,,,,,,,,USD,,,,,,,,,
+SYZYGY AG,yahoo,Close,Aktie_Beratung,1,,,DE0005104806,,,,,,,,,,EUR,,,,,,,,,
+Covestro AG,yahoo,Close,Aktie_Pharma,1,,,DE0006062144,,,,,,,,,,EUR,,,,,,,,,
+WisdomTree Coffee,yahoo,Close,ETF_Rohstoff,1,,EOD,DE000A0KRJT2,,https://www.onvista.de/derivative/snapshotHistoryCSV?idNotation=15376566&datetimeTzStartRange=01.02.2020&datetimeTzLastRange=Invalid%20date&codeResolution=1D,,,,,,,,EUR,,OD7B.F,,,,,,,
+WisdomTree Phy Silver,yahoo,Close,ETF_Rohstoff,1,,,DE000A0N62F2,,,,,,,,,,EUR,,,,,,,,,
+Xetra-Gold,yahoo,Close,ETF_Rohstoff,1,,EOD,DE000A0S9GB0,,https://www.onvista.de/derivative/snapshotHistoryCSV?idNotation=22703847&datetimeTzStartRange=01.02.2020&datetimeTzLastRange=Invalid%20date&codeResolution=1D,,,,,,,,EUR,,4GLD.F,,,,,,,
+M1 Kliniken AG,yahoo,Close,Aktie_Pharma,1,,,DE000A0STSQ8,,,,,,,,,,EUR,,,,,,,,,
+MPH Health Care AG,yahoo,Close,Aktie_Biotech,1,,,DE000A289V03,,,,,,,,,,EUR,,,,,,,,,
+VanEck Vectors Bitcoin ETN,yahoo,Close,ETF_Krypto,1,,,DE000A28M8D0,,,,,,,,,,EUR,,,,,,,,,
+KATEK SE,yahoo,Close,Aktie_Industrie,1,,,DE000A2TSQH7,,,,,,,,,,EUR,,,,,,,,,
+Mister Spex SE,yahoo,Close,Aktie_Konsum,1,,,DE000A3CSAE2,,,,,,,,,,EUR,,,,,,,,,
+VanEck Vectors Ethereum ETN,yahoo,Close,ETF_Krypto,1,,,DE000A3GPSP7,,,,,,,,,,EUR,,,,,,,,,
+Siemens Energy AG,yahoo,Close,Aktie_Energie,1,,,DE000ENER6Y0,,,,,,,,,,EUR,,,,,,,,,
+Porsche ,yahoo,Close,Aktie_Auto,1,,,DE000PAH0038,,,,,,,,,,EUR,,,,,,,,,
+Natural Gas Feb 22 (Underlying),yahoo,Close,Aktie_Rohstoff,1,,,DE000SB3T5K8,,,,,,,,,,EUR,,,,,,,,,
+Talanx AG,yahoo,Close,Aktie_Bank,1,,,DE000TLX1005,,,,,,,,,,EUR,,,,,,,,,
+Ørsted A/S,yahoo,Close,Aktie_Energie,1,,,DK0060094928,,,,,,,,,,EUR,,,,,,,,,
+Amundi ETF MSCI Spain ,yahoo,Close,ETF_Land,1,,,FR0010655746,,,,,,,,,,EUR,,,,,,,,,
+British Land Company Plc,yahoo,Close,Aktie_Immo,1,,,GB0001367019,,,,,,,,,,GBP,,,,,,,,,
+Aviva plc,yahoo,Close,Aktie_Bank,1,,,GB0002162385,,,,,,,,,,GBP,,,,,,,,,
+Endeavour Mining ,yahoo,Close,Aktie_Rohstoff,1,,,GB00BL6K5J42,,,,,,,,,,GBP,,,,,,,,,
+iShares Healthcare Innovation,yahoo,Close,ETF_Sektor,1,,,IE00BYZK4776,,,,,,,,,,GBP,,,,,,,,,
+Xtrackers II - Eurozone Inflation-Linked Bond,yahoo,Close,ETF_Renten,1,,,LU0290358224,,,,,,,,,,EUR,,,,,,,,,
+tonies SE,yahoo,Close,Aktie_Konsum,1,,,LU2333563281,,,,,,,,,,EUR,,,,,,,,,
+Hewlett Packard Enterprise Company,yahoo,Close,Aktie_Tech,1,,,US42824C1099,,,,,,,,,,USD,,,,,,,,,
+Micron Technology,yahoo,Close,Aktie_Tech,1,,,US5951121038,,,,,,,,,,USD,,,,,,,,,
+"Twitter, Inc",yahoo,Close,Aktie_Tech,1,,,US90184L1026,,,,,,,,,,USD,,,,,,,,,
+Welltower Inc,yahoo,Close,Aktie_Immo,1,,,US95040Q1040,,,,,,,,,,USD,,,,,,,,,
+NeXR Technologies ,yahoo,Close,Aktie_Tech,1,,,DE000A1K03W5,,,,,,,,,,EUR,,,,,,,,,
+UniImmo: Europa,yahoo,Close,Aktie_Immo,1,,,DE0009805515,,,,,,,,,,EUR,,,,,,,,,
+Capital & Counties Properties ,yahoo,Close,Aktie_Immo,1,,,GB00B62G9D36,,,,,,,,,,GBP,,,,,,,,,
+DEGI International ,yahoo,Close,Aktie_Immo,1,,,DE0008007998,,,,,,,,,,EUR,,,,,,,,,
+KanAm Grundinvest Fonds,yahoo,Close,Aktie_Immo,1,,,DE0006791809,,,,,,,,,,EUR,,,,,,,,,
+Roblox Corporation,yahoo,Close,Aktie_Tech,0,,,US7710491033,,,,,,,,,,,,,,,,,,,
