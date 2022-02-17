@@ -3,14 +3,18 @@
 # Streamlit run Testapp.py
 #Buch Beispiele https://machine-learning.tokyo/ https://github.com/caron14/streamlit_LinearRegression
 #https://share.streamlit.io/cotrader/mytest/Testapp.py
+
+
 import streamlit as st
 import streamlit.components.v1 as stc 
 from datetime import date
 import yfinance as yf
 import pandas as pd
 from matplotlib import pyplot as plt
+from plotly import graph_objs as go
 import pandas as pd
-
+from PIL import Image
+import cufflinks as cf
 username = 'cotrader'
 token = '48cb91a0c4a78777dcb09be71e7c92d0ddabbec6'
 api_token = '48cb91a0c4a78777dcb09be71e7c92d0ddabbec6'
